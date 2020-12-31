@@ -1,0 +1,13 @@
+*.lst
+*.bin
+*.raw
+*.o
+*.bin.large
+
+.idea
+target
+*.iml
+*.cmd
+mvnw
+
+.vs
